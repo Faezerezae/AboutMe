@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 /* This example requires Tailwind CSS v2.0+ */
 const navigation = {
     main: [
-      { name: 'About', to: '/AboutMe' },
+      { name: 'About', to: '/AboutMe/' },
       { name: 'Work samples', to: '/WorkSample' },
       { name: 'WorkHistory and Skills', to: '/PastAndSkill' },
       { name: 'Partners', to: '/Partners' },

@@ -62,7 +62,7 @@ export default function Header() {
               </div>
               <ul className="MENU-LINK-MOBILE-OPEN flex gap-5 items-center text-sm justify-start h-auto">
                 <li className="border-b border-gray-400 uppercase">
-                  <Link to='/AboutMe'>About</Link>
+                  <Link to='/AboutMe/'>About</Link>
                 </li>
                 <li className="border-b border-gray-400 uppercase">
                   <Link to='/WorkSample'>Work samples</Link>
@@ -76,7 +76,7 @@ export default function Header() {
 
           <ul className="DESKTOP-MENU hidden ml-10  sm:flex gap-4">
             <li className="text-base font-medium text-white hover:text-indigo-50 uppercase">
-            <Link to='/AboutMe'>About</Link>
+            <Link to='/AboutMe/'>About</Link>
             </li>
             <li className="text-base font-medium text-white hover:text-indigo-50 uppercase">
               <Link to='/WorkSample'>Work samples</Link>
