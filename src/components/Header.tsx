@@ -62,7 +62,7 @@ export default function Header() {
               </div>
               <ul className="MENU-LINK-MOBILE-OPEN flex gap-5 items-center text-sm justify-start h-auto">
                 <li className="border-b border-gray-400 uppercase">
-                  <Link to='/'>About</Link>
+                  <Link to='/AboutMe'>About</Link>
                 </li>
                 <li className="border-b border-gray-400 uppercase">
                   <Link to='/WorkSample'>Work samples</Link>
