@@ -16,6 +16,10 @@ export const routes = createBrowserRouter([
     element: <Layout/>,
     children: [
       {
+        path: "/AboutMe",
+        element: <About />
+      },
+      {
         path: "/PastAndSkill",
         element: <PastAndSkill />
       },
