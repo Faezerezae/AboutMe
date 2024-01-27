@@ -7,7 +7,7 @@ import { contact } from '../data/data';
 
 export default function About() {
   return (
-    <div className="bg-gradient-to-r from-[#766EFF] to-[#87F1FF] h-[400px] mb-[700px] xl:m-96">
+    <div className="bg-gradient-to-r from-[#766EFF] to-[#87F1FF] h-[400px] mb-[600px] xl:mb-96">
       <section className="container mx-auto px-2 sm:px-3 lg:px-5">
         <div className="bg-white rounded-lg h-auto grid grid-cols-1 xl:grid-cols-2 shadow-lg p-4">
       <div className="lg:m-10 md:mx-40  m-10 mx-auto">
