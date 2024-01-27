@@ -12,7 +12,7 @@ import Layout from "../components/Layout";
 
 export const routes = createBrowserRouter([
   {
-    path: "",
+    path: "/AboutMe",
     element: <Layout/>,
     children: [
       {
