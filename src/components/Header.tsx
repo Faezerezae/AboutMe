@@ -76,7 +76,7 @@ export default function Header() {
 
           <ul className="DESKTOP-MENU hidden ml-10  sm:flex gap-4">
             <li className="text-base font-medium text-white hover:text-indigo-50 uppercase">
-              <Link to='/'>About</Link>
+            <Link to='/AboutMe'>About</Link>
             </li>
             <li className="text-base font-medium text-white hover:text-indigo-50 uppercase">
               <Link to='/WorkSample'>Work samples</Link>
