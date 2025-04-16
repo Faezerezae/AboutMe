@@ -158,7 +158,7 @@ export const whiths = [
     },
     {
       id: 7,
-      renge: "20%",
+      renge: "80%",
       name: "React",
     },
   ]

@@ -19,7 +19,7 @@ import `@fontsource/roboto/700.css`; */
 }
 
 .social-network {
-  @apply w-10 h-10 bg-slate-400 leading-10 rounded flex justify-center text-center text-white text-sm hover:bg-gradient-to-r from-[#766EFF] to-[#87F1FF];
+  @apply w-10 h-10  bg-slate-400 leading-10 rounded flex justify-center items-center text-center text-white hover:bg-gradient-to-r from-[#766EFF] to-[#87F1FF];
 }
 
 .swiper {
